@@ -1,2 +1,5 @@
 # opessl
-openssl 生成pfx
+openssl 生成pfx证书
+
+
+ 
